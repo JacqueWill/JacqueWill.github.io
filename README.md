@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -18,8 +17,8 @@
   
   <h2>Connect with Me</h2>
   <ul>
-    <li><a href="https://yourwebsite.com">Website</a></li>
-    <li><a href="https://twitter.com/jacquewill">Twitter</a></li>
+    <li><a href="https://twitter.com/XeonTraveller">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/in/khairnarnisarga">Linkedin</a></li>
     </ul>
 </body>
 </html>
